@@ -1,0 +1,4 @@
+﻿Build iniciado...
+1>------ Compilação iniciada: Projeto: IMC, Configuração: Debug Any CPU ------
+1>IMC -> C:\Users\SANSUNG\OneDrive\projetosC#\IMC\IMC\bin\Debug\netcoreapp3.1\IMC.dll
+========== Compilar: 1 com êxito, 0 com falha, 0 atualizados, 0 ignorados ==========
